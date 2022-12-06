@@ -1,3 +1,2 @@
 #  Add your API key
-weather_api_key = "6dc05d92f2124269dc57ec76b2176741"
-api_key2 = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2ZGMwNWQ5MmYyMTI0MjY5ZGM1N2VjNzZiMjE3Njc0MSIsInN1YiI6IjYzODk0ZDYzNjllYjkwMDA4NjJmNGM5YiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.HFhkwXb5qeRT4I-_S9AqsUhCLcoG9rWj7L9p3Hzh35s"
+api_key = "6dc05d92f2124269dc57ec76b2176741"
